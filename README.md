@@ -1,2 +1,1 @@
-"This file is mandatory in projects" 
-"Hello Ubuntu" 
+"This file is mandatory in projects"  
